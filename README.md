@@ -1,4 +1,5 @@
 [![GitHub Stars](https://img.shields.io/github/stars/zenika/alpine-chrome)](https://github.com/Zenika/alpine-chrome/) [![Docker Build Status](https://img.shields.io/docker/cloud/build/zenika/alpine-chrome.svg)](https://hub.docker.com/r/zenika/alpine-chrome/) [![Docker Pulls](https://img.shields.io/docker/pulls/zenika/alpine-chrome.svg)](https://hub.docker.com/r/zenika/alpine-chrome/) [![Layers](https://images.microbadger.com/badges/image/zenika/alpine-chrome.svg)](https://microbadger.com/images/zenika/alpine-chrome) [![Version](https://images.microbadger.com/badges/version/zenika/alpine-chrome.svg)](https://microbadger.com/images/zenika/alpine-chrome) [![Docker Stars](https://img.shields.io/docker/stars/zenika/alpine-chrome.svg)](https://hub.docker.com/r/zenika/alpine-chrome/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Falpine-chrome.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Falpine-chrome?ref=badge_shield)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
@@ -356,3 +357,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ⭐️ this repo or [leave a comment here](https://github.com/Zenika/alpine-chrome/issues/new?template=03_thanks.md)
 
 💚 Support this repository using [GitHub Sponsor](https://github.com/sponsors/jlandure/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Falpine-chrome.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Falpine-chrome?ref=badge_large)
